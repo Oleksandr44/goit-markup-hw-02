@@ -47,7 +47,7 @@ li {
 }
 
 .link-nav:hover,
-:focus {
+.link-nav:focus {
   color: #404bbf;
 }
 
