@@ -24,6 +24,15 @@ li {
   text-transform: uppercase;
 }
 
+.logo-link {
+  color: #2e2f42;
+}
+
+.logo-link:hover,
+.logo-link:focus {
+  color: #404bbf;
+}
+
 .text-logo {
   color: #2e2f42;
   font-family: Raleway, sans-serif;
