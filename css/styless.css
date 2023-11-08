@@ -87,6 +87,11 @@ li {
   letter-spacing: 0.32px;
 }
 
+.link-contacts-menu:hover,
+.link-contacts-menu:focus {
+  color: #404bbf;
+}
+
 /*Hero*/
 .hero {
   background-color: #2e2f42;
